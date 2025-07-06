@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+
+@theme {
+    /* container start */
+  --spacing-mContainer: 1210px; 
+  /* container end */
+
+  /* font start */
+  --font-pop: "poppins", "sans-serif"; 
+  /* font end */
+
+  /* color start */
+  --color-myprimary: #5E3BEE ; 
+  --color-bannerbg: #F9F9FC; 
+  --color-opacitycolor: rgba(18, 18, 18, 0.7); 
+  --drop-shadow-service: 37px 37px 80px rgba(0, 0, 0, 0.1); 
+
+  /* color end */
+  --tracking-service: 1.5px; 
+} 
+/* class="drop-shadow-[37px_37px_80px_rgba(0,0,0,0.1)]" */
